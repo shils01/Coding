@@ -1,9 +1,29 @@
 
 
 	       p{color:white;}
-	       h1{color:#white}
-	       h2{color:white;}
+	       h1{
+	       color:#white}
+	      
+	       h2{color:white;
+	       	text-decoration:underline;
+	       	text-decoration-color: 1px solid blue;
+	       }
+	     
+
+
 	       ul#logos li{list-style-type:none; display:inline;}
 
 	       body {background-color:#808080;}
+
+
+
+	       .sub { 
+	       border-radius: 1px; 
+	       background-color:#007777;
+	       color:white;
+	       padding: .5em;
+	       border: 0;
+	       cursor: pointer;
+	       }
+
 
